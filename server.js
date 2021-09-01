@@ -3,7 +3,6 @@ require('dotenv').config()
 const express = require('express');
 const cors = require('cors');
 const axios = require('axios');
-var bodyParser = require('body-parser')
 const app = express();
 
 const url = `https://${process.env.API_KEY}:${process.env.PASSWORD}@${process.env.SHOP}.myshopify.com`;
