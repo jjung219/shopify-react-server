@@ -32,7 +32,7 @@ npm install
 
 5. Go back to the server folder and run 'npm run dev'. This will concurrently start the server and client.
 
-6. Start playing around in the app!
+6. You should see a page that looks like [this](https://github.com/jjung219/shopify-react/blob/master/public/images/Screen%20Shot%202021-09-01%20at%204.08.18%20PM.png)!
 
 ### Client Repository
 
